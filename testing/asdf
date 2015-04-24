@@ -1,0 +1,82 @@
+Generating maze
+Searching paths... 1
+Searching paths... 2
+Searching paths... 3
+Searching paths... 4
+Searching paths... 5
+Searching paths... 6
+Searching paths... 7
+Searching paths... 8
+Searching paths... 9
+Searching paths... 10
+Searching paths... 11
+Searching paths... 12
+Searching paths... 13
+Searching paths... 14
+Searching paths... 15
+Searching paths... 16
+Searching paths... 17
+Searching paths... 18
+Searching paths... 19
+Searching paths... 20
+Searching paths... 21
+Searching paths... 22
+Searching paths... 23
+Searching paths... 24
+Searching paths... 25
+Searching paths... 26
+Searching paths... 27
+Searching paths... 28
+Searching paths... 29
+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ 
+@ 1             # # # # # # # # # # # # # 2 @ 
+@ # # # # # #   # # # # # # # # # # # # #   @ 
+@ # # D     #   # # #               # # #   @ 
+@ # #   #   #   # # #   # # # # #   # # #   @ 
+@ # #   #   #           # # # # #   # # #   @ 
+@ # #   #   # # # # # # # # # # #   # # #   @ 
+@ # #                               # # #   @ 
+@ # # # # # # # # # #   # # # # # # # # #   @ 
+@ # # # # # # # # # #   # # # # # # # # #   @ 
+@ # # # # # # # # # #   # # # # # # # # #   @ 
+@ # # # # # # # # # #               # # #   @ 
+@ # # # # # # # # # #   # # # # #   # # #   @ 
+@ # # # # # # # #       #       #       #   @ 
+@ # # # # # # # #   #   #   #   # # #   #   @ 
+@ # # # # # # # #   #   #   #   # # #       @ 
+@ # # # # # # # #   #   #   #   # # # # # # @ 
+@ # #           #   #       #       # # # # @ 
+@ # #   # # #   #   # # # # # # #   # # # # @ 
+@ # #       #       # # # # # # #           @ 
+@ # # # #   # # # # # # # # # # # # # # #   @ 
+@ 3         # # # # # # # # # # # # # # # 4 @ 
+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ 
+
+Fulfilling maze... 1
+Fulfilling maze... 2
+Fulfilling maze... 3
+Fulfilling maze... 4
+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ 
+@ 1                                     # 2 @ 
+@ # # # # # #   #   # # # # # # # # # # #   @ 
+@   # D     #   #   #               #   #   @ 
+@   #   #   #   # # #   # # #   #   #   #   @ 
+@       #   #           #   #   #   #       @ 
+@   #   #   # # # # # # #   # # #   # # #   @ 
+@   #                               #   #   @ 
+@ # #   #   #   #   #   #   # # #   #   #   @ 
+@       #   #   #   #   #   #           #   @ 
+@ # #   #   #   # # #   # # # # # # # # #   @ 
+@   #   #   #   #                       #   @ 
+@   #   # # # # # # #   # # # # #   # # #   @ 
+@               #       #       #       #   @ 
+@ # #   #   #   #   #   #   #   #   #   #   @ 
+@   #   #   #   #   #   #   #   #   #       @ 
+@   # # # # # # #   #   #   #   # # # # #   @ 
+@               #   #       #           #   @ 
+@ # #   # # #   #   #   # # # # #   # # # # @ 
+@ # #       #       #       #   #           @ 
+@ # # # #   #   # # #   #   #   #   #   #   @ 
+@ 3         #       #   #       #   #   # 4 @ 
+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ 
+
