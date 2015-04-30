@@ -1,2 +1,2 @@
-# Maezshit
+# Maezshit!
 Maez gaem
